@@ -30,6 +30,7 @@ Origin/Destination	Airport codes
 DepDelay / ArrDelay	Delay in minutes at departure/arrival
 Cancelled	Whether the flight was canceled (1=yes, 0=no)
 CarrierDelay, WeatherDelay, NASDelay, SecurityDelay, LateAircraftDelay	Minutes of delay attributed to each cause
+
 3. Objectives
 
 Clean and prepare the dataset for analysis.
